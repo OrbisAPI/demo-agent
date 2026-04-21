@@ -1,0 +1,14 @@
+{
+  "name": "orbis-demo-agent",
+  "version": "1.0.0",
+  "description": "Demo AI agent using Orbis APIs with x402 micropayments on Base",
+  "main": "agent.js",
+  "scripts": {
+    "start": "node agent.js"
+  },
+  "keywords": ["x402", "ai-agent", "orbis", "usdc", "base", "micropayments"],
+  "license": "MIT",
+  "dependencies": {
+    "orbis-x402": "^1.0.0"
+  }
+}
